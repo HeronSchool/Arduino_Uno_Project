@@ -18,6 +18,6 @@ First, check the port setting in your computer to see which port is connected to
 ## Result
 https://github.com/user-attachments/assets/016abb02-405a-434a-8b9e-c9312a11d4c3
 
-- reference
-[1]Loading icons created by meaicon - Flaticon
-[2]https://discussions.unity.com/t/sending-data-from-arduino-uno-to-unity/149028/2
+### reference
+- [1]Loading icons created by meaicon - Flaticon
+- [2]https://discussions.unity.com/t/sending-data-from-arduino-uno-to-unity/149028/2
